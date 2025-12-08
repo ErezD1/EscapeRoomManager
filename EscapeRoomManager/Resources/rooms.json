@@ -1,0 +1,1382 @@
+[
+  {
+    "name": "ספר סודות היקום",
+    "url": "/rooms/book-of-secrets/",
+    "operator": "MysticRoom",
+    "city": "תל אביב-יפו"
+  },
+  {
+    "name": "אלדורדו – עיר הזהב",
+    "url": "/rooms/eldorado/",
+    "operator": "Escape Life",
+    "city": "אשדוד"
+  },
+  {
+    "name": "מריו בממלכת הממתקים",
+    "url": "/rooms/mario-candy-world/",
+    "operator": "Quest World",
+    "city": "חיפה"
+  },
+  {
+    "name": "סודות במפעל השוקולד",
+    "url": "/rooms/chocolate-factory-secrets/",
+    "operator": "Quest World",
+    "city": "חיפה"
+  },
+  {
+    "name": "פעולת טרור",
+    "url": "/rooms/battle-games-terror/",
+    "operator": "MysticRoom",
+    "city": "תל אביב-יפו"
+  },
+  {
+    "name": "הצד האחר",
+    "url": "/rooms/the-other-side/",
+    "operator": "MysticRoom",
+    "city": "תל אביב-יפו"
+  },
+  {
+    "name": "האוצר האבוד של קפטן הוק",
+    "url": "/rooms/captain-hook/",
+    "operator": "Quest World",
+    "city": "חיפה"
+  },
+  {
+    "name": "קללת הפרעונים",
+    "url": "/rooms/curse-of-the-pharaohs/",
+    "operator": "MysticRoom",
+    "city": "תל אביב-יפו"
+  },
+  {
+    "name": "היו זמנים באמריקה",
+    "url": "/rooms/one-day-in-america/",
+    "operator": "EscapeBox",
+    "city": "ראשון לציון"
+  },
+  {
+    "name": "משחקי קרב",
+    "url": "/rooms/battle-games/",
+    "operator": "MysticRoom",
+    "city": "תל אביב-יפו"
+  },
+  {
+    "name": "הבית הרדוף",
+    "url": "/rooms/haunted-house/",
+    "operator": "1887",
+    "city": "תל אביב-יפו"
+  },
+  {
+    "name": "שודדי הפיראטים",
+    "url": "/rooms/pirate-robbers/",
+    "operator": "Escape Life",
+    "city": "אשדוד"
+  },
+  {
+    "name": "משימה קטלנית",
+    "url": "/rooms/deadly-mission/",
+    "operator": "MysticRoom",
+    "city": "תל אביב-יפו"
+  },
+  {
+    "name": "גברים בשחור",
+    "url": "/rooms/men-in-black/",
+    "operator": "EscapeBox",
+    "city": "ראשון לציון"
+  },
+  {
+    "name": "להציל את הממלכה",
+    "url": "/rooms/battle-games-kingdom/",
+    "operator": "MysticRoom",
+    "city": "תל אביב-יפו"
+  },
+  {
+    "name": "אוז",
+    "url": "/rooms/oz-dark/",
+    "operator": "Sherlocked",
+    "city": "ראשון לציון"
+  },
+  {
+    "name": "סקובי דו",
+    "url": "/rooms/scooby-doo/",
+    "operator": "Placebo",
+    "city": "נתניה"
+  },
+  {
+    "name": "מונשיין",
+    "url": "/rooms/moonshine/",
+    "operator": "Open The Door",
+    "city": "ירושלים"
+  },
+  {
+    "name": "קרב מטבחים",
+    "url": "/rooms/kitchens-battle/",
+    "operator": "Open The Door",
+    "city": "ירושלים"
+  },
+  {
+    "name": "טומב ריידר: שודדי הקברים",
+    "url": "/rooms/tomb-raider/",
+    "operator": "Escape Room",
+    "city": "ראשון לציון"
+  },
+  {
+    "name": "המלך ארתור והחרב האבודה",
+    "url": "/rooms/excalibur/",
+    "operator": "Escape Room",
+    "city": "נשר"
+  },
+  {
+    "name": "בחזרה לברית המועצות",
+    "url": "/rooms/back-to-the-ussr/",
+    "operator": "Secret Room",
+    "city": "אשדוד"
+  },
+  {
+    "name": "מפעל הממתקים",
+    "url": "/rooms/candy-factory/",
+    "operator": "TimeOut Escape",
+    "city": "פתח תקווה"
+  },
+  {
+    "name": "מיונים למוסד",
+    "url": "/rooms/mossad-2/",
+    "operator": "Escape Room",
+    "city": "בנימינה-גבעת עדה"
+  },
+  {
+    "name": "ציידי השדים",
+    "url": "/rooms/ghost-hunters/",
+    "operator": "Escape Room",
+    "city": "תל אביב-יפו"
+  },
+  {
+    "name": "אמזונס",
+    "url": "/rooms/amazonas/",
+    "operator": "Escape Journey",
+    "city": "אשקלון"
+  },
+  {
+    "name": "קווסטופוביה - המחלקה הסגורה",
+    "url": "/rooms/questophobia-the-psychiatric-ward/",
+    "operator": "Questline",
+    "city": "נשר"
+  },
+  {
+    "name": "תעלומת האסיר האחרון",
+    "url": "/rooms/berlin-1520/",
+    "operator": "Escape Room",
+    "city": "רחובות"
+  },
+  {
+    "name": "סודות הג'ונגל",
+    "url": "/rooms/secrets-of-the-jungle/",
+    "operator": "Escape Room",
+    "city": "פתח תקווה"
+  },
+  {
+    "name": "ויקינגים",
+    "url": "/rooms/vikings/",
+    "operator": "Escape Room",
+    "city": "פתח תקווה"
+  },
+  {
+    "name": "זינוק לאתמול",
+    "url": "/rooms/jump-to-yesterday/",
+    "operator": "Escape Room",
+    "city": "הרצלייה"
+  },
+  {
+    "name": "מבצע חילוץ",
+    "url": "/rooms/rescue-operation/",
+    "operator": "Escape Room",
+    "city": "ראשון לציון"
+  },
+  {
+    "name": "טעות בכיוון",
+    "url": "/rooms/wrong-turn/",
+    "operator": "Escape Room",
+    "city": "תל אביב-יפו"
+  },
+  {
+    "name": "007",
+    "url": "/rooms/007-agent/",
+    "operator": "Quest Room",
+    "city": "חיפה"
+  },
+  {
+    "name": "אחוזת השכן",
+    "url": "/rooms/the-neighbors-mansion/",
+    "operator": "Escape Center",
+    "city": "ראשון לציון"
+  },
+  {
+    "name": "להציל את שיך אבריק",
+    "url": "/rooms/sheikh-abreik/",
+    "operator": "שיך אבריק",
+    "city": "שדה יעקב"
+  },
+  {
+    "name": "ליל הגשרים",
+    "url": "/rooms/night-of-the-bridges/",
+    "operator": "בית יגאל אלון",
+    "city": null
+  },
+  {
+    "name": "אלם סטריט",
+    "url": "/rooms/elm-street/",
+    "operator": "Escape Room",
+    "city": "תל אביב-יפו"
+  },
+  {
+    "name": "האוצר הסודי",
+    "url": "/rooms/grandpas-treasure/",
+    "operator": "Escape Room",
+    "city": "תל אביב-יפו"
+  },
+  {
+    "name": "שוד המאה - ירושלים",
+    "url": "/rooms/jerusalem-the-robbery-of-the-century/",
+    "operator": "Escape Room",
+    "city": "ירושלים"
+  },
+  {
+    "name": "סודו של הודיני",
+    "url": "/rooms/houdinis-secret/",
+    "operator": "G-Room",
+    "city": "גילת"
+  },
+  {
+    "name": "משימה בלתי אפשרית",
+    "url": "/rooms/mission-impossible-herzliya/",
+    "operator": "Escape Room",
+    "city": "הרצלייה"
+  },
+  {
+    "name": "הארי פוטר",
+    "url": "/rooms/harry-potter-haifa/",
+    "operator": "Questline",
+    "city": "נשר"
+  },
+  {
+    "name": "מרסר 112",
+    "url": "/rooms/mercer-112/",
+    "operator": "Questair",
+    "city": "תל אביב-יפו"
+  },
+  {
+    "name": "אימפריית הפשע",
+    "url": "/rooms/boardwalk-empire/",
+    "operator": "Escape Room",
+    "city": "ירושלים"
+  },
+  {
+    "name": "שעת חירום",
+    "url": "/rooms/doomsday/",
+    "operator": "Escape Room",
+    "city": "באר שבע"
+  },
+  {
+    "name": "רובין הוד",
+    "url": "/rooms/robin-hood/",
+    "operator": "Action Game",
+    "city": "כפר סבא"
+  },
+  {
+    "name": "משחקי בילוש",
+    "url": "/rooms/detective-games/",
+    "operator": "Escape Room",
+    "city": "תל אביב-יפו"
+  },
+  {
+    "name": "מטריקס",
+    "url": "/rooms/the-matrix/",
+    "operator": "Escape Room",
+    "city": "תל אביב-יפו"
+  },
+  {
+    "name": "פינוקיו",
+    "url": "/rooms/pinocchio/",
+    "operator": "Runaway",
+    "city": "הרצלייה"
+  },
+  {
+    "name": "דון פבלו",
+    "url": "/rooms/don-pablo/",
+    "operator": "5959 חדרי בריחה",
+    "city": "ירושלים"
+  },
+  {
+    "name": "הארי פוטר והשוד בסמטת דיאגון",
+    "url": "/rooms/harry-potter-and-the-robbery-in-diagon-alley/",
+    "operator": "Hype Esc",
+    "city": "תל אביב-יפו"
+  },
+  {
+    "name": "פסיי ג'ק",
+    "url": "/rooms/psy-jack/",
+    "operator": "Crazy Mary",
+    "city": "ירושלים"
+  },
+  {
+    "name": "תיקים באפילה",
+    "url": "/rooms/challenge-top-secret/",
+    "operator": "Escape Room",
+    "city": "הרצלייה"
+  },
+  {
+    "name": "גלדיאטור",
+    "url": "/rooms/gladiator/",
+    "operator": "Funzmania",
+    "city": "קריית אתא"
+  },
+  {
+    "name": "אלאדין ומנורת הקסמים",
+    "url": "/rooms/agrabah/",
+    "operator": "Escape Room",
+    "city": "נשר"
+  },
+  {
+    "name": "בית הנייר",
+    "url": "/rooms/casa-de-papel/",
+    "operator": "Inside Out",
+    "city": "רעננה"
+  },
+  {
+    "name": "טיטאניק",
+    "url": "/rooms/titanic/",
+    "operator": "Escape Room",
+    "city": "תל אביב-יפו"
+  },
+  {
+    "name": "הבריחה מכלא גלבוע",
+    "url": "/rooms/gilboa-prison-escape/",
+    "operator": "Gilboa Escape",
+    "city": "אשקלון"
+  },
+  {
+    "name": "נרקוס",
+    "url": "/rooms/narcos/",
+    "operator": "Escape Center",
+    "city": "ראשון לציון"
+  },
+  {
+    "name": "קרייזי פסטה",
+    "url": "/rooms/crazy-pasta/",
+    "operator": "אסקייפ פלייס",
+    "city": "בית שמש"
+  },
+  {
+    "name": "דירה 404",
+    "url": "/rooms/apartment-404/",
+    "operator": "Escape Room",
+    "city": "הרצלייה"
+  },
+  {
+    "name": "מקדש הקאמי",
+    "url": "/rooms/the-kami-temple/",
+    "operator": "Escape Center",
+    "city": "ראשון לציון"
+  },
+  {
+    "name": "התקליט האבוד",
+    "url": "/rooms/lost-record/",
+    "operator": "Escape Land",
+    "city": "חיפה"
+  },
+  {
+    "name": "תעלומת הרוק פאב בקיבוץ",
+    "url": "/rooms/rock-pub/",
+    "operator": "ParadisEscape",
+    "city": null
+  },
+  {
+    "name": "שתולים",
+    "url": "/rooms/sleepers/",
+    "operator": "Escape Room",
+    "city": "ראשון לציון"
+  },
+  {
+    "name": "אליס בארץ הפלאות: מבעד למראה",
+    "url": "/rooms/alice-through-the-looking-glass-haifa/",
+    "operator": "Escape Room",
+    "city": "חיפה"
+  },
+  {
+    "name": "צומת העולמות",
+    "url": "/rooms/crossroad-of-the-worlds/",
+    "operator": "My Real Quest",
+    "city": "נשר"
+  },
+  {
+    "name": "כור גרעיני",
+    "url": "/rooms/nuclear-reactor/",
+    "operator": "Quest Room",
+    "city": "חיפה"
+  },
+  {
+    "name": "היועצת",
+    "url": "/rooms/the-counsler/",
+    "operator": "ParadisEscape",
+    "city": null
+  },
+  {
+    "name": "הוטל קליפורניה",
+    "url": "/rooms/hotel-california/",
+    "operator": "Escape Room",
+    "city": "תל אביב-יפו"
+  },
+  {
+    "name": "שעת חירום",
+    "url": "/rooms/tel-aviv-doomsday/",
+    "operator": "Escape Room",
+    "city": "תל אביב-יפו"
+  },
+  {
+    "name": "המבצע המקסיקני",
+    "url": "/rooms/mexican-operation/",
+    "operator": "Questline",
+    "city": "נשר"
+  },
+  {
+    "name": "קופיקו",
+    "url": "/rooms/kofiko/",
+    "operator": "Amazon Escape",
+    "city": "חולון"
+  },
+  {
+    "name": "פאן-טזיה",
+    "url": "/rooms/funtazia/",
+    "operator": "Action Game",
+    "city": "כפר סבא"
+  },
+  {
+    "name": "מטרו",
+    "url": "/rooms/metro/",
+    "operator": "Brainit",
+    "city": "נתניה"
+  },
+  {
+    "name": "הפרופסור המפוזר",
+    "url": "/rooms/crazy-professor/",
+    "operator": "Sherlocked",
+    "city": "ראשון לציון"
+  },
+  {
+    "name": "הגורו שתקע אותי",
+    "url": "/rooms/naughty-guru/",
+    "operator": "Show Time",
+    "city": "ראשון לציון"
+  },
+  {
+    "name": "ממלכה במבחן",
+    "url": "/rooms/kingdom-trial/",
+    "operator": "Escape Room",
+    "city": "ירושלים"
+  },
+  {
+    "name": "Game Over",
+    "url": "/rooms/game-over/",
+    "operator": "Escape-Mission",
+    "city": "נס ציונה"
+  },
+  {
+    "name": "כבוד השר",
+    "url": "/rooms/dear-minister/",
+    "operator": "Open The Door",
+    "city": "ירושלים"
+  },
+  {
+    "name": "משאלה של פיצה",
+    "url": "/rooms/pizza-wish/",
+    "operator": "Brainit",
+    "city": "נתניה"
+  },
+  {
+    "name": "חדר חידות צפת",
+    "url": "/rooms/safed-puzzle-room/",
+    "operator": "Safed Puzzle Room",
+    "city": "צפת"
+  },
+  {
+    "name": "תיבת פנדורה",
+    "url": "/rooms/pandoras-box/",
+    "operator": "Exit Room",
+    "city": "תל אביב-יפו"
+  },
+  {
+    "name": "בית כלא ק.ג.ב",
+    "url": "/rooms/kgb-prison/",
+    "operator": "SecretRoom Ashdod",
+    "city": "אשדוד"
+  },
+  {
+    "name": "פרויקט איקס",
+    "url": "/rooms/project-x/",
+    "operator": "Questair",
+    "city": "תל אביב-יפו"
+  },
+  {
+    "name": "ג'ק המרטש",
+    "url": "/rooms/jack-the-ripper/",
+    "operator": "Escape Room",
+    "city": "פתח תקווה"
+  },
+  {
+    "name": "הקסם האחרון",
+    "url": "/rooms/the-last-trick/",
+    "operator": "The MAZE",
+    "city": "פתח תקווה"
+  },
+  {
+    "name": "אטלנטיס",
+    "url": "/rooms/atlantis/",
+    "operator": "Escape Journey",
+    "city": "אשקלון"
+  },
+  {
+    "name": "לכודים",
+    "url": "/rooms/trapped/",
+    "operator": "Escape Room",
+    "city": "ירושלים"
+  },
+  {
+    "name": "המסור",
+    "url": "/rooms/saw/",
+    "operator": "Escape Room",
+    "city": "ראשון לציון"
+  },
+  {
+    "name": "איפה אפי?",
+    "url": "/rooms/where-is-efi/",
+    "operator": "EscapeBox",
+    "city": "ראשון לציון"
+  },
+  {
+    "name": "קינוח קטלני",
+    "url": "/rooms/crazy-cupcake/",
+    "operator": "Panica",
+    "city": "תל אביב-יפו"
+  },
+  {
+    "name": "שישי ה-13",
+    "url": "/rooms/friday-the-13th/",
+    "operator": "Lost - Escape Rooms",
+    "city": "קריית ביאליק"
+  },
+  {
+    "name": "ללא מוצא",
+    "url": "/rooms/no-way-out/",
+    "operator": "Mind Attack",
+    "city": "קריית אתא"
+  },
+  {
+    "name": "הרפתקאות הפיראטים",
+    "url": "/rooms/pirates-adventure/",
+    "operator": "Escape Reality Games",
+    "city": "אילת"
+  },
+  {
+    "name": "העוקץ",
+    "url": "/rooms/the-sting/",
+    "operator": "The MAZE",
+    "city": "פתח תקווה"
+  },
+  {
+    "name": "כראמל 2: נקמתו של פרופ' דה ויל",
+    "url": "/rooms/kramel-2-professor-de-vils-revenge/",
+    "operator": "מסתורי",
+    "city": "ראשון לציון"
+  },
+  {
+    "name": "אמן האשליות",
+    "url": "/rooms/magician-room/",
+    "operator": "Escape Room",
+    "city": "ראשון לציון"
+  },
+  {
+    "name": "התיאטרון",
+    "url": "/rooms/the-theater/",
+    "operator": "Escape Room",
+    "city": "פתח תקווה"
+  },
+  {
+    "name": "שרלוק הולמס והרוצח מלונדון",
+    "url": "/rooms/sherlock-holmes-and-the-london-murderer/",
+    "operator": "Escape Room",
+    "city": "פתח תקווה"
+  },
+  {
+    "name": "המלך ארתור והגביע הקסום",
+    "url": "/rooms/legends-of-king-arthur/",
+    "operator": "Escape Room",
+    "city": "רחובות"
+  },
+  {
+    "name": "המדיה החברתית",
+    "url": "/rooms/social-media/",
+    "operator": "Placebo",
+    "city": "נתניה"
+  },
+  {
+    "name": "העולם הנסתר",
+    "url": "/rooms/the-hidden-world-world-of-legends/",
+    "operator": "Funzmania",
+    "city": "קריית אתא"
+  },
+  {
+    "name": "לילה מוטרף במוזיאון",
+    "url": "/rooms/night-at-the-museum/",
+    "operator": "Escape Room",
+    "city": "חיפה"
+  },
+  {
+    "name": "ההתרסקות",
+    "url": "/rooms/crash/",
+    "operator": "Mind Attack",
+    "city": "קריית אתא"
+  },
+  {
+    "name": "הנבואה",
+    "url": "/rooms/prophecy/",
+    "operator": "My Real Quest",
+    "city": "נשר"
+  },
+  {
+    "name": "משחק הדיונון",
+    "url": "/rooms/squid-game/",
+    "operator": "Inside Out",
+    "city": "רעננה"
+  },
+  {
+    "name": "הבהלה לזהב",
+    "url": "/rooms/wild-west/",
+    "operator": "Escape Room",
+    "city": "הרצלייה"
+  },
+  {
+    "name": "מחסלי הערפדים",
+    "url": "/rooms/vampire-killers/",
+    "operator": "Escape Reality Games",
+    "city": "אילת"
+  },
+  {
+    "name": "קופה ראשית",
+    "url": "/rooms/kupa-rashit/",
+    "operator": "מסתורי",
+    "city": "ראשון לציון"
+  },
+  {
+    "name": "המנזר",
+    "url": "/rooms/the-monastery/",
+    "operator": "Placebo",
+    "city": "נתניה"
+  },
+  {
+    "name": "עולם השוקולד",
+    "url": "/rooms/chocolate-world/",
+    "operator": "Amazon Escape",
+    "city": "חולון"
+  },
+  {
+    "name": "הנוסחה הסודית",
+    "url": "/rooms/the-secret-formula/",
+    "operator": "Sencity",
+    "city": "אריאל"
+  },
+  {
+    "name": "הגולם מפראג",
+    "url": "/rooms/the-golem-of-prague/",
+    "operator": "בנימין אסקייפ",
+    "city": "שער בנימין"
+  },
+  {
+    "name": "קרב כספות",
+    "url": "/rooms/heist-battles/",
+    "operator": "The MAZE",
+    "city": "פתח תקווה"
+  },
+  {
+    "name": "ספיי קידס: תוכנית הגרעין",
+    "url": "/rooms/spy-kids/",
+    "operator": "Escape Room",
+    "city": "פתח תקווה"
+  },
+  {
+    "name": "ספר הצללים",
+    "url": "/rooms/book-of-shadows/",
+    "operator": "Game IT",
+    "city": "ראשון לציון"
+  },
+  {
+    "name": "סוד הגילגל",
+    "url": "/rooms/gilgal-ha-refaim/",
+    "operator": "EscapeBox",
+    "city": "קצרין"
+  },
+  {
+    "name": "חפרתם",
+    "url": "/rooms/archeology/",
+    "operator": "בנימין אסקייפ",
+    "city": "שער בנימין"
+  },
+  {
+    "name": "פעילות על טבעית",
+    "url": "/rooms/paranormal-activity/",
+    "operator": "Escape Room",
+    "city": "תל אביב-יפו"
+  },
+  {
+    "name": "השניצל של סבתא",
+    "url": "/rooms/grandmas-schnitzel/",
+    "operator": "אסקייפ פלייס",
+    "city": "בית שמש"
+  },
+  {
+    "name": "ההתערבות",
+    "url": "/rooms/intervention/",
+    "operator": "Escape Center",
+    "city": "ראשון לציון"
+  },
+  {
+    "name": "המלך ארתור – אגדת החרב",
+    "url": "/rooms/king-arthur-2/",
+    "operator": "Escape Reality Games",
+    "city": "אילת"
+  },
+  {
+    "name": "המקרה המוזר",
+    "url": "/rooms/strange-case/",
+    "operator": "5959 חדרי בריחה",
+    "city": "ירושלים"
+  },
+  {
+    "name": "בלש אמיתי",
+    "url": "/rooms/real-detective/",
+    "operator": "Quest Room",
+    "city": "חיפה"
+  },
+  {
+    "name": "עמי ותמי",
+    "url": "/rooms/ami-tami/",
+    "operator": "Amazon Escape",
+    "city": "חולון"
+  },
+  {
+    "name": "שוד בנק",
+    "url": "/rooms/bank-robbery/",
+    "operator": "Escape Room",
+    "city": "חיפה"
+  },
+  {
+    "name": "פיצוץ של גלידה",
+    "url": "/rooms/sugar-rush/",
+    "operator": "Panica",
+    "city": "תל אביב-יפו"
+  },
+  {
+    "name": "משחקי הגורל",
+    "url": "/rooms/destiny-games/",
+    "operator": "Quest Room",
+    "city": "חיפה"
+  },
+  {
+    "name": "הולי פיצה!",
+    "url": "/rooms/holly-pizza/",
+    "operator": "Panica",
+    "city": "תל אביב-יפו"
+  },
+  {
+    "name": "סודו של הגורו",
+    "url": "/rooms/guru-secret/",
+    "operator": "Show Time",
+    "city": "ראשון לציון"
+  },
+  {
+    "name": "הקוסם מארץ עוץ",
+    "url": "/rooms/wizard-of-oz/",
+    "operator": "Sherlocked",
+    "city": "ראשון לציון"
+  },
+  {
+    "name": "המטמון האבוד",
+    "url": "/rooms/the-lost-treasure/",
+    "operator": "Escape Room",
+    "city": "פתח תקווה"
+  },
+  {
+    "name": "הגנון של שמעון",
+    "url": "/rooms/shimons-kindergarten/",
+    "operator": "TimeOut Escape",
+    "city": "פתח תקווה"
+  },
+  {
+    "name": "הצעקה האחרונה",
+    "url": "/rooms/the-last-scream/",
+    "operator": "Lost - Escape Rooms",
+    "city": "קריית ביאליק"
+  },
+  {
+    "name": "NYC במהירות גבוהה",
+    "url": "/rooms/high-speed-nyc/",
+    "operator": "MysticRoom",
+    "city": "תל אביב-יפו"
+  },
+  {
+    "name": "שר הטבעות בחיפה",
+    "url": "/rooms/lord-of-the-rings-haifa/",
+    "operator": "Quest Room",
+    "city": "חיפה"
+  },
+  {
+    "name": "נמלטים",
+    "url": "/rooms/prison-break-2/",
+    "operator": "Escape Room",
+    "city": "באר שבע"
+  },
+  {
+    "name": "הקודקוד החמישי",
+    "url": "/rooms/the-fifth-vertex/",
+    "operator": "Beyond Quest",
+    "city": "דאלית אל-כרמל"
+  },
+  {
+    "name": "הארי פוטר ושילוש הגורל",
+    "url": "/rooms/harry-potter-deathly-hallows/",
+    "operator": "Hype Esc",
+    "city": "תל אביב-יפו"
+  },
+  {
+    "name": "פרויקט X (באר שבע)",
+    "url": "/rooms/project-x-beer-sheva/",
+    "operator": "Escape Room",
+    "city": "באר שבע"
+  },
+  {
+    "name": "נחיתת חירום",
+    "url": "/rooms/emergency-landing/",
+    "operator": "Escapism",
+    "city": "תל אביב-יפו"
+  },
+  {
+    "name": "בדרך לתהילה",
+    "url": "/rooms/way-to-glory/",
+    "operator": "Show Time",
+    "city": "ראשון לציון"
+  },
+  {
+    "name": "הנגאובר",
+    "url": "/rooms/eilat-hangover/",
+    "operator": "Escape Room",
+    "city": "אילת"
+  },
+  {
+    "name": "חופשי על הבר",
+    "url": "/rooms/cheers/",
+    "operator": "Panica",
+    "city": "תל אביב-יפו"
+  },
+  {
+    "name": "מפוקסלים - שוד הקריפטו",
+    "url": "/rooms/pixels/",
+    "operator": "Escape Room",
+    "city": "תל אביב-יפו"
+  },
+  {
+    "name": "הטיהור",
+    "url": "/rooms/the-purge/",
+    "operator": "Quest Room",
+    "city": "חיפה"
+  },
+  {
+    "name": "המסדר השביעי",
+    "url": "/rooms/the-seventh-order/",
+    "operator": "Escape Room",
+    "city": "תל אביב-יפו"
+  },
+  {
+    "name": "טהרן",
+    "url": "/rooms/tehran/",
+    "operator": "Gilboa Escape",
+    "city": "אשקלון"
+  },
+  {
+    "name": "משחקי הפיצה",
+    "url": "/rooms/the-pizza-games/",
+    "operator": "Escape Room",
+    "city": "אילת"
+  },
+  {
+    "name": "הוביט",
+    "url": "/rooms/hobbit/",
+    "operator": "Xcape",
+    "city": "כפר סבא"
+  },
+  {
+    "name": "גנובים",
+    "url": "/rooms/stolen/",
+    "operator": "Escape Room",
+    "city": "רחובות"
+  },
+  {
+    "name": "פסיכי לגמרי",
+    "url": "/rooms/totally-psycho/",
+    "operator": "ParadisEscape",
+    "city": null
+  },
+  {
+    "name": "הבריחה מאלקטרז",
+    "url": "/rooms/escape-from-alcatraz/",
+    "operator": "Escape Game Eilat",
+    "city": "אילת"
+  },
+  {
+    "name": "מחוץ למפה",
+    "url": "/rooms/uncharted/",
+    "operator": "Escape Room",
+    "city": "פתח תקווה"
+  },
+  {
+    "name": "התפרצות",
+    "url": "/rooms/i-am-legend/",
+    "operator": "Escape Room",
+    "city": "ראשון לציון"
+  },
+  {
+    "name": "אלקטרז",
+    "url": "/rooms/alcatraz-jail/",
+    "operator": "Escape Reality Games",
+    "city": "אילת"
+  },
+  {
+    "name": "סודות האלכימאי",
+    "url": "/rooms/secrets-of-the-alchemist/",
+    "operator": "Escape Room",
+    "city": "רחובות"
+  },
+  {
+    "name": "הודיני",
+    "url": "/rooms/houdini/",
+    "operator": "מסתורי",
+    "city": "ראשון לציון"
+  },
+  {
+    "name": "השטיבל",
+    "url": "/rooms/stiebel/",
+    "operator": "Red Button",
+    "city": null
+  },
+  {
+    "name": "כראמל",
+    "url": "/rooms/cramel/",
+    "operator": "מסתורי",
+    "city": "ראשון לציון"
+  },
+  {
+    "name": "השוד",
+    "url": "/rooms/the-heist/",
+    "operator": "Escape Room",
+    "city": "פתח תקווה"
+  },
+  {
+    "name": "אוצר לאומי",
+    "url": "/rooms/national-treasure/",
+    "operator": "Escape Land",
+    "city": "חיפה"
+  },
+  {
+    "name": "בשבי הסורי",
+    "url": "/rooms/syrian-captivity/",
+    "operator": "QUESTEAM",
+    "city": null
+  },
+  {
+    "name": "הארי פוטר והדובשנרייה",
+    "url": "/rooms/harry-potter-and-the-honeydukes/",
+    "operator": "Hype Esc",
+    "city": "תל אביב-יפו"
+  },
+  {
+    "name": "טיסת המסתורין",
+    "url": "/rooms/mystery-flight/",
+    "operator": "Escapism",
+    "city": "תל אביב-יפו"
+  },
+  {
+    "name": "עיר החטאים",
+    "url": "/rooms/sin-city/",
+    "operator": "Quest Room",
+    "city": "חיפה"
+  },
+  {
+    "name": "קארטו",
+    "url": "/rooms/careto/",
+    "operator": "Inside Out",
+    "city": "רעננה"
+  },
+  {
+    "name": "הפיצה של דודה מרתה: שוד המתכון",
+    "url": "/rooms/aunt-martha-pizza/",
+    "operator": "Escape Room",
+    "city": "חיפה"
+  },
+  {
+    "name": "מוזיאון נטוש",
+    "url": "/rooms/abandoned-museum/",
+    "operator": "Escape Room",
+    "city": "חיפה"
+  },
+  {
+    "name": "מיונים למוסד",
+    "url": "/rooms/mossad/",
+    "operator": "Escape Room",
+    "city": "תל אביב-יפו"
+  },
+  {
+    "name": "מסע הגיבור",
+    "url": "/rooms/hero-journey/",
+    "operator": "Escape Room",
+    "city": "ראשון לציון"
+  },
+  {
+    "name": "מרבד הקסמים",
+    "url": "/rooms/magic-carpet/",
+    "operator": "Funzmania",
+    "city": "קריית אתא"
+  },
+  {
+    "name": "הפריצה לאקונומיה",
+    "url": "/rooms/breaking-into-the-pantry/",
+    "operator": "ParadisEscape",
+    "city": null
+  },
+  {
+    "name": "לילה מכושף",
+    "url": "/rooms/enchanted-night/",
+    "operator": "Funzmania",
+    "city": "קריית אתא"
+  },
+  {
+    "name": "דאהמר",
+    "url": "/rooms/dahmer/",
+    "operator": "Mind Attack",
+    "city": "קריית אתא"
+  },
+  {
+    "name": "הרפתקאות הארי פוטר",
+    "url": "/rooms/harry-potter-adventures/",
+    "operator": "PuzzleBox",
+    "city": "נתניה"
+  },
+  {
+    "name": "אבירי הלילה",
+    "url": "/rooms/the-knights-watch/",
+    "operator": "QUESTEAM",
+    "city": null
+  },
+  {
+    "name": "מקדש אנוביס",
+    "url": "/rooms/temple-of-anubis/",
+    "operator": "PuzzleBox",
+    "city": "נתניה"
+  },
+  {
+    "name": "היפנוזה",
+    "url": "/rooms/hypnosis/",
+    "operator": "Open The Door",
+    "city": "ירושלים"
+  },
+  {
+    "name": "המסור בחיפה",
+    "url": "/rooms/haifa-saw/",
+    "operator": "Quest Room",
+    "city": "חיפה"
+  },
+  {
+    "name": "גיבורי העל",
+    "url": "/rooms/superheroes/",
+    "operator": "Escape Room",
+    "city": "תל אביב-יפו"
+  },
+  {
+    "name": "אליס בארץ הפלאות: מבעד למראה",
+    "url": "/rooms/alice-in-wonderland-looking-glass/",
+    "operator": "Escape Room",
+    "city": "אילת"
+  },
+  {
+    "name": "גריז",
+    "url": "/rooms/grease/",
+    "operator": "Escape Room",
+    "city": "תל אביב-יפו"
+  },
+  {
+    "name": "חיילי צעצוע",
+    "url": "/rooms/toy-soldiers/",
+    "operator": "TimeOut Escape",
+    "city": "פתח תקווה"
+  },
+  {
+    "name": "פיטר פן",
+    "url": "/rooms/peter-pan-haifa/",
+    "operator": "Mind Attack",
+    "city": "קריית אתא"
+  },
+  {
+    "name": "ספר הקסמים",
+    "url": "/rooms/book-of-magic/",
+    "operator": "MysticRoom",
+    "city": "תל אביב-יפו"
+  },
+  {
+    "name": "אירוויזיון - מסיבת הפיצה",
+    "url": "/rooms/eurovision-pizza-party/",
+    "operator": "Panica",
+    "city": "תל אביב-יפו"
+  },
+  {
+    "name": "טיטאניק",
+    "url": "/rooms/eilat-titanic/",
+    "operator": "Escape Room",
+    "city": "אילת"
+  },
+  {
+    "name": "בית הילדים הנטוש",
+    "url": "/rooms/abandoned-childrens-house/",
+    "operator": "Savta Room",
+    "city": null
+  },
+  {
+    "name": "מבוך הפרעונים",
+    "url": "/rooms/pharaohs-maze/",
+    "operator": "Integrateam",
+    "city": null
+  },
+  {
+    "name": "משחקי הכס: הצפון זוכר",
+    "url": "/rooms/the-north-remembers/",
+    "operator": "Placebo",
+    "city": "נתניה"
+  },
+  {
+    "name": "קיוב",
+    "url": "/rooms/cube-2/",
+    "operator": "The MAZE",
+    "city": "פתח תקווה"
+  },
+  {
+    "name": "שר הטבעות - המסע אל מורדור",
+    "url": "/rooms/lord-of-the-rings/",
+    "operator": "Escapism",
+    "city": "תל אביב-יפו"
+  },
+  {
+    "name": "המסע אל העבר",
+    "url": "/rooms/abandoned-house-mystery/",
+    "operator": "My Real Quest",
+    "city": "נשר"
+  },
+  {
+    "name": "מבוך הדרקונים",
+    "url": "/rooms/dragons-maze/",
+    "operator": "Xcape",
+    "city": "כפר סבא"
+  },
+  {
+    "name": "אקשן!",
+    "url": "/rooms/action/",
+    "operator": "The MAZE",
+    "city": "פתח תקווה"
+  },
+  {
+    "name": "תעלומת המונה ליזה",
+    "url": "/rooms/mona-lisa-mystery/",
+    "operator": "North Escape",
+    "city": null
+  },
+  {
+    "name": "הספוג הצהוב",
+    "url": "/rooms/yellow-sponge/",
+    "operator": "Escape Land",
+    "city": "חיפה"
+  },
+  {
+    "name": "נמלטים",
+    "url": "/rooms/prison-break/",
+    "operator": "Escape Room",
+    "city": "ראשון לציון"
+  },
+  {
+    "name": "בעורף האוייב",
+    "url": "/rooms/behind-enemy-lines/",
+    "operator": "Escape Room",
+    "city": "פתח תקווה"
+  },
+  {
+    "name": "חוקרי האוצרות",
+    "url": "/rooms/thousand-and-one-nights/",
+    "operator": "Escapism",
+    "city": "תל אביב-יפו"
+  },
+  {
+    "name": "תחנת החלל אלטאיר",
+    "url": "/rooms/altair/",
+    "operator": "Escape Room",
+    "city": "תל אביב-יפו"
+  },
+  {
+    "name": "אנתרקס",
+    "url": "/rooms/anthrax/",
+    "operator": "Sherlocked",
+    "city": "ראשון לציון"
+  },
+  {
+    "name": "שוד היסטרי",
+    "url": "/rooms/historical-robbery/",
+    "operator": "ParadisEscape",
+    "city": null
+  },
+  {
+    "name": "הקצביה",
+    "url": "/rooms/the-butchery/",
+    "operator": "Escape Room",
+    "city": "תל אביב-יפו"
+  },
+  {
+    "name": "גן עדן וגיהנום",
+    "url": "/rooms/heaven-and-hell/",
+    "operator": "Secret Room",
+    "city": "אשדוד"
+  },
+  {
+    "name": "המאה",
+    "url": "/rooms/the-100/",
+    "operator": "Brainit",
+    "city": "נתניה"
+  },
+  {
+    "name": "מבצע לוויתן",
+    "url": "/rooms/operation-seal/",
+    "operator": "Inside Out",
+    "city": "רעננה"
+  },
+  {
+    "name": "מלחמות החלל המשימה האחרונה",
+    "url": "/rooms/space-wars-the-last-mission/",
+    "operator": "Escape Reality Games",
+    "city": "אילת"
+  },
+  {
+    "name": "אובססיה",
+    "url": "/rooms/perfume-the-obsession/",
+    "operator": "EscapeBox",
+    "city": "קצרין"
+  },
+  {
+    "name": "מחנה 23",
+    "url": "/rooms/camp-23/",
+    "operator": "Escape Room",
+    "city": "פתח תקווה"
+  },
+  {
+    "name": "פלישת החייזרים",
+    "url": "/rooms/alien-invasion/",
+    "operator": "Escape Room",
+    "city": "רעננה"
+  },
+  {
+    "name": "עונש מוות",
+    "url": "/rooms/capital-punishment/",
+    "operator": "Exit Room",
+    "city": "תל אביב-יפו"
+  },
+  {
+    "name": "דברים מוזרים",
+    "url": "/rooms/stranger-things/",
+    "operator": "Runaway",
+    "city": "הרצלייה"
+  },
+  {
+    "name": "אליס בארץ הפלאות: מבעד למראה",
+    "url": "/rooms/alice-through-the-looking-glass-tel-aviv/",
+    "operator": "Escape Room",
+    "city": "תל אביב-יפו"
+  },
+  {
+    "name": "טיטאניק",
+    "url": "/rooms/titanic-2/",
+    "operator": "Escape Room",
+    "city": "בנימינה-גבעת עדה"
+  },
+  {
+    "name": "אבן הנצח",
+    "url": "/rooms/stone-of-eternity/",
+    "operator": "Escape Room",
+    "city": "רחובות"
+  },
+  {
+    "name": "אסון במצולות",
+    "url": "/rooms/nuclear-nightmare/",
+    "operator": "QUESTEAM",
+    "city": null
+  },
+  {
+    "name": "גיבורים נגד נבלים",
+    "url": "/rooms/heroes-vs-villains/",
+    "operator": "Game IT",
+    "city": "ראשון לציון"
+  },
+  {
+    "name": "אינפיניטי",
+    "url": "/rooms/infinity/",
+    "operator": "Escape Center",
+    "city": "ראשון לציון"
+  },
+  {
+    "name": "מסעות גוליבר",
+    "url": "/rooms/gullivers-travel/",
+    "operator": "Sherlocked",
+    "city": "ראשון לציון"
+  },
+  {
+    "name": "עולמו הקסום של פו",
+    "url": "/rooms/poohs-magical-world/",
+    "operator": "Runaway",
+    "city": "הרצלייה"
+  },
+  {
+    "name": "טיסה 301",
+    "url": "/rooms/flight-301/",
+    "operator": "Questair",
+    "city": "תל אביב-יפו"
+  },
+  {
+    "name": "קופר איירלינס",
+    "url": "/rooms/cooper-airlines/",
+    "operator": "North Escape",
+    "city": null
+  },
+  {
+    "name": "אינדיאנה גונס בחיפוש אחר ג'ומנג'י",
+    "url": "/rooms/indiana-jones-in-search-of-jumanji/",
+    "operator": "Escape Reality Games",
+    "city": "אילת"
+  },
+  {
+    "name": "סודות האוצר הגלילי",
+    "url": "/rooms/secrets-of-the-galilean-treasure/",
+    "operator": "אסקייפ כרמיאל",
+    "city": "כרמיאל"
+  },
+  {
+    "name": "ימ\"מ",
+    "url": "/rooms/swat/",
+    "operator": "Xcape",
+    "city": "כפר סבא"
+  },
+  {
+    "name": "אנדרומדה",
+    "url": "/rooms/andromeda/",
+    "operator": "Escape Journey",
+    "city": "אשקלון"
+  }
+]
