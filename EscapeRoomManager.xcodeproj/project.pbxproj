@@ -6,14 +6,36 @@
 	objectVersion = 77;
 	objects = {
 
+/* Begin PBXBuildFile section */
+		064B77E62EE4BBE700D34CCF /* Assets.xcassets  in Resources */ = {isa = PBXBuildFile; fileRef = 064B77E52EE4BBDE00D34CCF /* Assets.xcassets  */; };
+		06B146E22EE6B85500620004 /* Media.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 06B146E12EE6B85500620004 /* Media.xcassets */; };
+/* End PBXBuildFile section */
+
 /* Begin PBXFileReference section */
-		064B77C92EE4BAED00D34CCF /* EscapeRoomManager.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = EscapeRoomManager.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		064B77E52EE4BBDE00D34CCF /* Assets.xcassets  */ = {isa = PBXFileReference; lastKnownFileType = text; path = "Assets.xcassets "; sourceTree = "<group>"; };
+		06B146C52EE4BC1A00620004 /* EscapeRoomManager.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = EscapeRoomManager.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		06B146E12EE6B85500620004 /* Media.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Media.xcassets; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
-		064B77CB2EE4BAED00D34CCF /* EscapeRoomManager */ = {
+		064B77D92EE4BB1500D34CCF /* App */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
-			path = EscapeRoomManager;
+			path = App;
+			sourceTree = "<group>";
+		};
+		064B77DB2EE4BB2400D34CCF /* Models */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = Models;
+			sourceTree = "<group>";
+		};
+		064B77DD2EE4BB7200D34CCF /* Views */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = Views;
+			sourceTree = "<group>";
+		};
+		064B77DE2EE4BB7B00D34CCF /* Resources */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = Resources;
 			sourceTree = "<group>";
 		};
 /* End PBXFileSystemSynchronizedRootGroup section */
@@ -32,17 +54,14 @@
 		064B77C02EE4BAED00D34CCF = {
 			isa = PBXGroup;
 			children = (
-				064B77CB2EE4BAED00D34CCF /* EscapeRoomManager */,
-				064B77CA2EE4BAED00D34CCF /* Products */,
+				064B77E52EE4BBDE00D34CCF /* Assets.xcassets  */,
+				064B77DE2EE4BB7B00D34CCF /* Resources */,
+				064B77DD2EE4BB7200D34CCF /* Views */,
+				064B77DB2EE4BB2400D34CCF /* Models */,
+				064B77D92EE4BB1500D34CCF /* App */,
+				06B146C52EE4BC1A00620004 /* EscapeRoomManager.app */,
+				06B146E12EE6B85500620004 /* Media.xcassets */,
 			);
-			sourceTree = "<group>";
-		};
-		064B77CA2EE4BAED00D34CCF /* Products */ = {
-			isa = PBXGroup;
-			children = (
-				064B77C92EE4BAED00D34CCF /* EscapeRoomManager.app */,
-			);
-			name = Products;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -61,13 +80,16 @@
 			dependencies = (
 			);
 			fileSystemSynchronizedGroups = (
-				064B77CB2EE4BAED00D34CCF /* EscapeRoomManager */,
+				064B77D92EE4BB1500D34CCF /* App */,
+				064B77DB2EE4BB2400D34CCF /* Models */,
+				064B77DD2EE4BB7200D34CCF /* Views */,
+				064B77DE2EE4BB7B00D34CCF /* Resources */,
 			);
 			name = EscapeRoomManager;
 			packageProductDependencies = (
 			);
 			productName = EscapeRoomManager;
-			productReference = 064B77C92EE4BAED00D34CCF /* EscapeRoomManager.app */;
+			productReference = 06B146C52EE4BC1A00620004 /* EscapeRoomManager.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -82,6 +104,7 @@
 				TargetAttributes = {
 					064B77C82EE4BAED00D34CCF = {
 						CreatedOnToolsVersion = 26.1.1;
+						LastSwiftMigration = 2610;
 					};
 				};
 			};
@@ -95,7 +118,7 @@
 			mainGroup = 064B77C02EE4BAED00D34CCF;
 			minimizedProjectReferenceProxies = 1;
 			preferredProjectObjectVersion = 77;
-			productRefGroup = 064B77CA2EE4BAED00D34CCF /* Products */;
+			productRefGroup = 064B77C02EE4BAED00D34CCF;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
@@ -109,6 +132,8 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				06B146E22EE6B85500620004 /* Media.xcassets in Resources */,
+				064B77E62EE4BBE700D34CCF /* Assets.xcassets  in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -246,14 +271,18 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				ASSETCATALOG_COMPILER_INCLUDE_ALL_APPICON_ASSETS = YES;
+				CLANG_ENABLE_MODULES = YES;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_ASSET_PATHS = Media.xcassets;
 				DEVELOPMENT_TEAM = ZZU2C7646A;
 				ENABLE_APP_SANDBOX = YES;
 				ENABLE_HARDENED_RUNTIME = YES;
 				ENABLE_PREVIEWS = YES;
 				ENABLE_USER_SELECTED_FILES = readonly;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_NSContactsUsageDescription = "האפליקציה משתמשת באנשי הקשר כדי להציע שמות חברים לחדרי בריחה.\n";
 				"INFOPLIST_KEY_UIApplicationSceneManifest_Generation[sdk=iphoneos*]" = YES;
 				"INFOPLIST_KEY_UIApplicationSceneManifest_Generation[sdk=iphonesimulator*]" = YES;
 				"INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents[sdk=iphoneos*]" = YES;
@@ -278,6 +307,7 @@
 				SWIFT_APPROACHABLE_CONCURRENCY = YES;
 				SWIFT_DEFAULT_ACTOR_ISOLATION = MainActor;
 				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
 				SWIFT_UPCOMING_FEATURE_MEMBER_IMPORT_VISIBILITY = YES;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2,7";
@@ -290,14 +320,18 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				ASSETCATALOG_COMPILER_INCLUDE_ALL_APPICON_ASSETS = YES;
+				CLANG_ENABLE_MODULES = YES;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_ASSET_PATHS = Media.xcassets;
 				DEVELOPMENT_TEAM = ZZU2C7646A;
 				ENABLE_APP_SANDBOX = YES;
 				ENABLE_HARDENED_RUNTIME = YES;
 				ENABLE_PREVIEWS = YES;
 				ENABLE_USER_SELECTED_FILES = readonly;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_NSContactsUsageDescription = "האפליקציה משתמשת באנשי הקשר כדי להציע שמות חברים לחדרי בריחה.\n";
 				"INFOPLIST_KEY_UIApplicationSceneManifest_Generation[sdk=iphoneos*]" = YES;
 				"INFOPLIST_KEY_UIApplicationSceneManifest_Generation[sdk=iphonesimulator*]" = YES;
 				"INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents[sdk=iphoneos*]" = YES;

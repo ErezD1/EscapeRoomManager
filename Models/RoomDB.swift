@@ -20,7 +20,7 @@ final class RoomDB: ObservableObject {
     @Published var rooms: [RoomInfo] = []
     
     // TODO: replace with your actual GitHub raw URL
-    private let remoteURLString = "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/rooms.json"
+    private let remoteURLString = "https://github.com/ErezD1/EscapeRoomManager/blob/main/EscapeRoomManager/Resources/rooms.json"
     
     init() {
         loadLocal()
